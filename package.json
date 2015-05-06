@@ -1,0 +1,24 @@
+{
+  "name": "gTester",
+  "version": "1.0.0",
+  "description": "a framework for game server test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gastrodia/gTester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastrodia/gTester/issues"
+  },
+  "homepage": "https://github.com/gastrodia/gTester",
+  "dependencies": {
+    "exec-time": "0.0.3",
+    "mockery": "^1.4.0",
+    "underscore": "^1.8.3"
+  }
+}
